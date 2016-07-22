@@ -7,3 +7,12 @@ body {
 div {
 	border: 1px solid Chocolate;
 }
+/* Navigation Section */
+.top-navigation > .content {
+	background-color: #fff;
+}
+.top-navigation {
+	width: 60.625em;
+	height: 4.375em;
+	margin: 0 auto;
+}
