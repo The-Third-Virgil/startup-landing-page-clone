@@ -1,0 +1,9 @@
+/*! Border around every div element */
+/** Gray background -- Be sure to remove when finished */
+
+body {
+	background-color: LightGray;
+}
+div {
+	border: 1px solid Chocolate;
+}
