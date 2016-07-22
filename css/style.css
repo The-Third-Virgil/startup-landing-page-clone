@@ -10,7 +10,10 @@ div {
 
 /* Navigation Section */
 .top-navigation .content {
-	font-family: 'Roboto' , serif;
+	font-family: 'Roboto' , sans-serif;
+	font-size: 1em;
+	color: #838994;
+	letter-spacing: 0.03em;
 
 }
 .top-navigation > .content {
@@ -36,4 +39,6 @@ div {
 }
 .top-navigation .links > li {
 	display: inline-block;
+	margin-top: 0.9em;
+    margin-left: 0.7em;
 }
