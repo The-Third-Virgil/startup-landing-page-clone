@@ -1,3 +1,9 @@
+/* Font smooting fix */
+
+html {
+	-webkit-font-smoothing: antialiased;
+}
+
 /*! Border around every div element */
 /** Gray background -- Be sure to remove when finished */
 
@@ -41,4 +47,11 @@ div {
 	display: inline-block;
 	margin-top: 0.9em;
     margin-left: 0.7em;
+}
+.top-navigation .links > .active {
+	color: #4c5058;
+	font-weight: 500;
+}
+.top-navigation .links > .howitworks {
+	word-spacing: 0.01em;
 }
