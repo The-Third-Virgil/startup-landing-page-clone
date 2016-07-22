@@ -16,3 +16,8 @@ div {
 	height: 4.375em;
 	margin: 0 auto;
 }
+/* Karma Logo position */
+.logo {
+	margin: 0.7em;
+	height: 4.375em;
+}
