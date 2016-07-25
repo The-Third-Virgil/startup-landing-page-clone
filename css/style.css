@@ -59,3 +59,9 @@ div {
 .top-navigation .links > .howitworks {
 	word-spacing: 0.01rem;
 }
+
+/* Introduction section */
+.introduction {
+	background-image: url('/images/first-background.jpg');
+	background-color: #000000;
+}
