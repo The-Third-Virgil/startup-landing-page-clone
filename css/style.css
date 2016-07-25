@@ -19,14 +19,14 @@ div {
 }
 
 /* Navigation Section */
-.top-navigation .content {
+.top-navigation > .content {
 	font-family: 'Roboto' , sans-serif;
 	font-size: 1rem;
 	color: #838994;
 	letter-spacing: 0.03rem;
 
 }
-.top-navigation > .content {
+.top-navigation .content {
 	background-color: #fff;
 	padding: 0rem 0.9rem;
 }
@@ -34,6 +34,8 @@ div {
 	background-color: #fff;
 	position: fixed;
 	width: 100%;
+	border-bottom: 1px solid #DDD;
+	z-index: 9999;
 	height: 4.375em;
 	margin: 0 auto;
 }
@@ -42,12 +44,14 @@ div {
 
 .top-navigation .logo {
 	height: 4.375rem;
+	margin-left: 5.5rem;
 }
 
 /* Link adjustments */
 
 .top-navigation .links {
 	float: right;
+	margin-right: 5.5rem;
 }
 .top-navigation .links > li {
 	display: inline-block;
@@ -71,4 +75,18 @@ div {
 	height: 45.938rem;
 	overflow: auto;
 	background-color: #000000;
+}
+.introduction h1 {
+	margin-top: 17.5rem;
+	font-size: 3.125rem;
+}
+.introduction h1, .introduction h3 {
+	color: white;
+	font-family: 'Roboto' , sans-serif;
+	text-align: center;
+	font-weight: 300;
+}
+.introduction h3 {
+	margin-top: 1.25rem;
+	font-size: 1.563rem;
 }
