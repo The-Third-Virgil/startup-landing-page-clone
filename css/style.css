@@ -21,14 +21,14 @@ div {
 /* Navigation Section */
 .top-navigation .content {
 	font-family: 'Roboto' , sans-serif;
-	font-size: 1em;
+	font-size: 1rem;
 	color: #838994;
-	letter-spacing: 0.03em;
+	letter-spacing: 0.03rem;
 
 }
 .top-navigation > .content {
 	background-color: #fff;
-	padding: 0em 0.9em;
+	padding: 0rem 0.9rem;
 }
 .top-navigation {
 	width: 60.625em;
@@ -39,7 +39,7 @@ div {
 /* Karma Logo position */
 
 .top-navigation .logo {
-	height: 4.375em;
+	height: 4.375rem;
 }
 
 /* Link adjustments */
@@ -49,13 +49,13 @@ div {
 }
 .top-navigation .links > li {
 	display: inline-block;
-	margin-top: 0.9em;
-    margin-left: 0.7em;
+	margin-top: 0.9rem;
+    margin-left: 0.7rem;
 }
 .top-navigation .links > .active {
 	color: #4c5058;
 	font-weight: 500;
 }
 .top-navigation .links > .howitworks {
-	word-spacing: 0.01em;
+	word-spacing: 0.01rem;
 }
