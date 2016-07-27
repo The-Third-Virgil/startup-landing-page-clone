@@ -24,7 +24,7 @@ html {
 .top-navigation .content {
 	background-color: #fff;
 	padding: 0rem 0.9rem;
-	width: 84rem;
+	width: 46rem;
 	margin: 0 auto;
 	min-width: 37.5rem;
 }
@@ -124,9 +124,26 @@ button:hover {
 .cases .devices > li {
     width: 33.3333333%;
     float: left;
+  
 }
 .cases .devices h3 {
 	font-weight: 400;
 	font-size: 1.563rem;
 	margin: 2.5rem 0px 1.875rem;
+}
+.social {
+	background-color: #fff;
+	overflow: auto;
+	padding-bottom: 9.375rem;
+	text-align: center;
+}
+.social > .content {
+	padding: 0 0.938rem;
+	margin: 0 auto;
+	min-width: 37.5rem;
+}
+social hr {
+	border: 0;
+	border-top: 1px solid #eaebec;
+	margin: 1.313rem 0;
 }
