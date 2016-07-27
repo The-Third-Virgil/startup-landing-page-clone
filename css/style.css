@@ -99,6 +99,12 @@ button {
 	border-style: none;
 	color: white;
 	border-radius: 4px;
-
-
+	font-size: 1.125rem;
+	text-shadow: none;
+	border-color: #f15a29;
+}
+button:hover {
+	background-color: #d9400e;
+	border-color: #cf3d0e;
+	cursor: pointer;
 }
