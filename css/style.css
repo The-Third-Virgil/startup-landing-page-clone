@@ -155,9 +155,12 @@ button:hover {
 	-webkit-margin-after: 1.67em;
 	-webkit-margin-start: 0px;
 	-webkit-margin-end: 0px;
+
 }
 .social .content > ul {
 	list-style-type: none;
+	-webkit-padding-start: 0;
+	padding-left: 0;
 }
 .social .icons > li {
 	border-radius: 1.25rem;
