@@ -178,10 +178,9 @@ button:hover {
 	padding: 0.625rem 0;
 	text-align: center;
 }
-<<<<<<< HEAD
 .copy {
 	color: #eaebec;
-=======
+}
 .social .twitter {
 	color: #55acee;
 }
@@ -195,5 +194,4 @@ button:hover {
 	font-size: 0.9rem;
 	font-weight: 300;
 	color: #838994;
->>>>>>> development
 }
